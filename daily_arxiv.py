@@ -179,7 +179,7 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["NeRF"] = "\"NeRF Super Resolution\"OR\"NeRF Depth Estimation\"OR\"NeRF Disparity Estimation\"OR\"NeRF View Synthesis\""OR"\"NeRF\""
+    keywords["NeRF"] = "\"NeRF Super Resolution\"OR\"NeRF Depth Estimation\"OR\"NeRF Disparity Estimation\"OR\"NeRF View Synthesis\""OR\"NeRF\""
     keywords["SLAM"] = "\"SLAM\"OR\"Visual Odometry\"
      
     
