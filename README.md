@@ -5,11 +5,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156v1](http://arxiv.org/abs/2409.12156v1)|null|
-|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|null|
+|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v1](http://arxiv.org/abs/2409.12014v1)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
 |**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v1](http://arxiv.org/abs/2409.10925v1)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327v1](http://arxiv.org/abs/2409.10327v1)|null|
-|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|null|
+|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829v1](http://arxiv.org/abs/2409.09829v1)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278v1](http://arxiv.org/abs/2409.08278v1)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454v1](http://arxiv.org/abs/2409.07454v1)|null|
@@ -61,7 +61,7 @@
 |**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623v1](http://arxiv.org/abs/2409.07623v1)|null|
 |**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693v1](http://arxiv.org/abs/2409.06693v1)|null|
-|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v2](http://arxiv.org/abs/2409.04961v2)|null|
+|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961v2](http://arxiv.org/abs/2409.04961v2)|**[link](https://github.com/PengYu-Team/GEODE_dataset)**|
 |**2024-09-05**|**FLAF: Focal Line and Feature-constrained Active View Planning for Visual Teach and Repeat**|Changfei Fu et.al.|[2409.03457v2](http://arxiv.org/abs/2409.03457v2)|null|
 |**2024-09-03**|**Integration of Augmented Reality and Mobile Robot Indoor SLAM for Enhanced Spatial Awareness**|Michael D. Friske et.al.|[2409.01915v1](http://arxiv.org/abs/2409.01915v1)|null|
 |**2024-09-03**|**Explicit Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric**|Tingchen Ma et.al.|[2409.01856v1](http://arxiv.org/abs/2409.01856v1)|null|
