@@ -4,6 +4,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v1](http://arxiv.org/abs/2410.04974v1)|null|
+|**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873v1](http://arxiv.org/abs/2410.04873v1)|null|
+|**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402v1](http://arxiv.org/abs/2410.04402v1)|null|
+|**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041v1](http://arxiv.org/abs/2410.04041v1)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
 |**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804v2](http://arxiv.org/abs/2410.01804v2)|null|
 |**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647v1](http://arxiv.org/abs/2410.01647v1)|**[link](https://github.com/yangcaoai/3dgs-det)**|
@@ -29,16 +34,15 @@
 |**2024-09-19**|**CrossRT: A cross platform programming technology for hardware-accelerated ray tracing in CG and CV applications**|Vladimir Frolov et.al.|[2409.12617v1](http://arxiv.org/abs/2409.12617v1)|null|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156v1](http://arxiv.org/abs/2409.12156v1)|null|
 |**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014v3](http://arxiv.org/abs/2409.12014v3)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
-|**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356v1](http://arxiv.org/abs/2409.11356v1)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925v2](http://arxiv.org/abs/2409.10925v2)|null|
-|**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327v1](http://arxiv.org/abs/2409.10327v1)|null|
-|**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041v1](http://arxiv.org/abs/2409.10041v1)|**[link](https://github.com/sntubix/denser)**|
-|**2024-09-15**|**NARF24: Estimating Articulated Object Structure for Implicit Rendering**|Stanley Lewis et.al.|[2409.09829v1](http://arxiv.org/abs/2409.09829v1)|null|
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Enhanced Multi-Robot SLAM System with Cross-Validation Matching and Exponential Threshold Keyframe Selection**|Ang He et.al.|[2410.05017v1](http://arxiv.org/abs/2410.05017v1)|null|
+|**2024-10-05**|**A Framework for Reproducible Benchmarking and Performance Diagnosis of SLAM Systems**|Nikola Radulov et.al.|[2410.04242v1](http://arxiv.org/abs/2410.04242v1)|null|
+|**2024-10-05**|**High-Speed Stereo Visual SLAM for Low-Powered Computing Devices**|Ashish Kumar et.al.|[2410.04090v1](http://arxiv.org/abs/2410.04090v1)|null|
+|**2024-10-04**|**EvenNICER-SLAM: Event-based Neural Implicit Encoding SLAM**|Shi Chen et.al.|[2410.03812v1](http://arxiv.org/abs/2410.03812v1)|null|
 |**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665v1](http://arxiv.org/abs/2410.03665v1)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961v1](http://arxiv.org/abs/2410.02961v1)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
@@ -58,15 +62,11 @@
 |**2024-09-25**|**Efficient Submap-based Autonomous MAV Exploration using Visual-Inertial SLAM Configurable for LiDARs or Depth Cameras**|Sotiris Papatheodorou et.al.|[2409.16972v1](http://arxiv.org/abs/2409.16972v1)|null|
 |**2024-09-25**|**Go-SLAM: Grounded Object Segmentation and Localization with Gaussian Splatting SLAM**|Phu Pham et.al.|[2409.16944v1](http://arxiv.org/abs/2409.16944v1)|null|
 |**2024-09-25**|**Inline Photometrically Calibrated Hybrid Visual SLAM**|Nicolas Abboud et.al.|[2409.16810v1](http://arxiv.org/abs/2409.16810v1)|**[link](https://github.com/AUBVRL/HSLAM_docker)**|
-|**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806v1](http://arxiv.org/abs/2409.16806v1)|null|
-|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|null|
+|**2024-09-25**|**Topological SLAM in colonoscopies leveraging deep features and topological priors**|Javier Morlana et.al.|[2409.16806v1](http://arxiv.org/abs/2409.16806v1)|**[link](https://github.com/endomapper/colonslam)**|
+|**2024-09-25**|**Robo-Platform: A Robotic System for Recording Sensors and Controlling Robots**|Masoud Dayani Najafabadi et.al.|[2409.16595v1](http://arxiv.org/abs/2409.16595v1)|**[link](https://github.com/m-dayani/robo-platform)**|
 |**2024-09-25**|**Task-driven SLAM Benchmarking**|Yanwei Du et.al.|[2409.16573v1](http://arxiv.org/abs/2409.16573v1)|null|
 |**2024-09-24**|**SoMaSLAM: 2D Graph SLAM for Sparse Range Sensing with Soft Manhattan World Constraints**|Jeahn Han et.al.|[2409.15736v1](http://arxiv.org/abs/2409.15736v1)|null|
 |**2024-09-23**|**Spectral Graph Theoretic Methods for Enhancing Network Robustness in Robot Localization**|Neelkamal Somisetty et.al.|[2409.15506v1](http://arxiv.org/abs/2409.15506v1)|null|
 |**2024-09-22**|**SPAQ-DL-SLAM: Towards Optimizing Deep Learning-based SLAM for Resource-Constrained Embedded Platforms**|Niraj Pudasaini et.al.|[2409.14515v1](http://arxiv.org/abs/2409.14515v1)|null|
-|**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020v1](http://arxiv.org/abs/2409.14020v1)|null|
-|**2024-09-20**|**HMD$^2$: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device**|Vladimir Guzov et.al.|[2409.13426v1](http://arxiv.org/abs/2409.13426v1)|null|
-|**2024-09-20**|**Learning Visual Information Utility with PIXER**|Yash Turkar et.al.|[2409.13151v1](http://arxiv.org/abs/2409.13151v1)|null|
-|**2024-09-19**|**MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**|Yan Song Hu et.al.|[2409.13055v1](http://arxiv.org/abs/2409.13055v1)|null|
-|**2024-09-19**|**Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2409.12518v1](http://arxiv.org/abs/2409.12518v1)|null|
+|**2024-09-21**|**Point Cloud Structural Similarity-based Underwater Sonar Loop Detection**|Donghwi Jung et.al.|[2409.14020v1](http://arxiv.org/abs/2409.14020v1)|**[link](https://github.com/donghwijung/point_cloud_structural_similarity_based_underwater_sonar_loop_detection)**|
 
