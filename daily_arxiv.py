@@ -181,7 +181,7 @@ if __name__ == "__main__":
     keywords = dict()
     keywords["NeRF"] = "\"NeRF Super Resolution\"OR\"NeRF Depth Estimation\"OR\"NeRF Disparity Estimation\"OR\"NeRF View Synthesis\"OR\"NeRF\""
     keywords["SLAM"] = "\"SLAM\"OR\"Visual Odometry\""
-    keywords["3DGS"] = "\"3D Gaussian Splatting\"OR\"3DGS\""
+    keywords["3DGS"] = "\"Gaussian Splatting\"OR\"3DGS\""
      
     
 
