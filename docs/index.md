@@ -8,10 +8,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271v1](http://arxiv.org/abs/2410.16271v1)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
+|**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958v1](http://arxiv.org/abs/2410.14958v1)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177v1](http://arxiv.org/abs/2410.14177v1)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
-|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v1](http://arxiv.org/abs/2410.13571v1)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v2](http://arxiv.org/abs/2410.13571v2)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 |**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349v1](http://arxiv.org/abs/2410.13349v1)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262v1](http://arxiv.org/abs/2410.12262v1)|null|
@@ -35,14 +38,12 @@ layout: default
 |**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111v1](http://arxiv.org/abs/2410.05111v1)|null|
 |**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974v2](http://arxiv.org/abs/2410.04974v2)|null|
 |**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873v1](http://arxiv.org/abs/2410.04873v1)|null|
-|**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402v1](http://arxiv.org/abs/2410.04402v1)|null|
-|**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041v2](http://arxiv.org/abs/2410.04041v2)|null|
-|**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103v1](http://arxiv.org/abs/2410.02103v1)|null|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-19**|**EndoMetric: Near-light metric scale monocular SLAM**|Raúl Iranzo et.al.|[2410.15065v1](http://arxiv.org/abs/2410.15065v1)|null|
 |**2024-10-17**|**Automatic Navigation and Voice Cloning Technology Deployment on a Humanoid Robot**|Dongkun Han et.al.|[2410.13612v1](http://arxiv.org/abs/2410.13612v1)|null|
 |**2024-10-17**|**TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal**|Yanpeng Jia et.al.|[2410.13240v1](http://arxiv.org/abs/2410.13240v1)|null|
 |**2024-10-16**|**QueensCAMP: an RGB-D dataset for robust Visual SLAM**|Hudson M. S. Bruno et.al.|[2410.12520v1](http://arxiv.org/abs/2410.12520v1)|**[link](https://github.com/larocs/queenscamp-dataset)**|
@@ -72,12 +73,15 @@ layout: default
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325v1](http://arxiv.org/abs/2410.01325v1)|null|
 |**2024-10-01**|**Under Pressure: Altimeter-Aided ICP for 3D Maps Consistency**|William Dubois et.al.|[2410.00758v1](http://arxiv.org/abs/2410.00758v1)|null|
 |**2024-10-01**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486v2](http://arxiv.org/abs/2410.00486v2)|**[link](https://github.com/DapengFeng/cartgs)**|
-|**2024-09-30**|**Additively Manufactured Open-Source Quadruped Robots for Multi-Robot SLAM Applications**|Zachary Fuge et.al.|[2410.00122v1](http://arxiv.org/abs/2410.00122v1)|null|
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266v1](http://arxiv.org/abs/2410.16266v1)|null|
+|**2024-10-21**|**MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**|Yu Sheng et.al.|[2410.15730v1](http://arxiv.org/abs/2410.15730v1)|null|
+|**2024-10-21**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629v1](http://arxiv.org/abs/2410.15629v1)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
 |**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462v1](http://arxiv.org/abs/2410.14462v1)|null|
 |**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189v1](http://arxiv.org/abs/2410.14189v1)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
@@ -85,7 +89,7 @@ layout: default
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851v1](http://arxiv.org/abs/2410.13851v1)|null|
 |**2024-10-17**|**MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes**|Xinjie Zhang et.al.|[2410.13613v1](http://arxiv.org/abs/2410.13613v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
-|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v1](http://arxiv.org/abs/2410.13571v1)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571v2](http://arxiv.org/abs/2410.13571v2)|null|
 |**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349v1](http://arxiv.org/abs/2410.13349v1)|null|
 |**2024-10-16**|**Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats**|Chen Ziwen et.al.|[2410.12781v1](http://arxiv.org/abs/2410.12781v1)|null|
 |**2024-10-16**|**3D Gaussian Splatting in Robotics: A Survey**|Siting Zhu et.al.|[2410.12262v1](http://arxiv.org/abs/2410.12262v1)|null|
@@ -104,8 +108,4 @@ layout: default
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467v1](http://arxiv.org/abs/2410.09467v1)|null|
 |**2024-10-11**|**SurgicalGS: Dynamic 3D Gaussian Splatting for Accurate Robotic-Assisted Surgical Scene Reconstruction**|Jialei Chen et.al.|[2410.09292v1](http://arxiv.org/abs/2410.09292v1)|null|
 |**2024-10-11**|**MeshGS: Adaptive Mesh-Aligned Gaussian Splatting for High-Quality Rendering**|Jaehoon Choi et.al.|[2410.08941v1](http://arxiv.org/abs/2410.08941v1)|null|
-|**2024-10-11**|**Learning Interaction-aware 3D Gaussian Splatting for One-shot Hand Avatars**|Xuan Huang et.al.|[2410.08840v1](http://arxiv.org/abs/2410.08840v1)|**[link](https://github.com/xuanhuang0/guassianhand)**|
-|**2024-10-11**|**Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization**|Christian Schmidt et.al.|[2410.08743v1](http://arxiv.org/abs/2410.08743v1)|**[link](https://github.com/schmiddo/noposegs)**|
-|**2024-10-10**|**FusionSense: Bridging Common Sense, Vision, and Touch for Robust Sparse-View Reconstruction**|Irving Fang et.al.|[2410.08282v1](http://arxiv.org/abs/2410.08282v1)|null|
-|**2024-10-10**|**Poison-splat: Computation Cost Attack on 3D Gaussian Splatting**|Jiahao Lu et.al.|[2410.08190v1](http://arxiv.org/abs/2410.08190v1)|**[link](https://github.com/jiahaolu97/poison-splat)**|
 
