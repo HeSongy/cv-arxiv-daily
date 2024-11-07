@@ -8,12 +8,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
+|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487v1](http://arxiv.org/abs/2411.03487v1)|null|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979v1](http://arxiv.org/abs/2411.02979v1)|null|
 |**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972v1](http://arxiv.org/abs/2411.02972v1)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969v1](http://arxiv.org/abs/2411.02969v1)|null|
 |**2024-11-04**|**NeRF-Aug: Data Augmentation for Robotics with Neural Radiance Fields**|Eric Zhu et.al.|[2411.02482v1](http://arxiv.org/abs/2411.02482v1)|null|
-|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v1](http://arxiv.org/abs/2411.02229v1)|null|
-|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v1](http://arxiv.org/abs/2411.01853v1)|null|
+|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
+|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v2](http://arxiv.org/abs/2411.01853v2)|null|
 |**2024-11-04**|**A Probabilistic Formulation of LiDAR Mapping with Neural Radiance Fields**|Matthew McDermott et.al.|[2411.01725v1](http://arxiv.org/abs/2411.01725v1)|**[link](https://github.com/mcdermatt/plink)**|
 |**2024-11-01**|**ZIM: Zero-Shot Image Matting for Anything**|Beomyoung Kim et.al.|[2411.00626v1](http://arxiv.org/abs/2411.00626v1)|**[link](https://github.com/naver-ai/zim)**|
 |**2024-10-31**|**Scaled Inverse Graphics: Efficiently Learning Large Sets of 3D Scenes**|Karim Kassab et.al.|[2410.23742v1](http://arxiv.org/abs/2410.23742v1)|null|
@@ -36,13 +38,14 @@ layout: default
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 |**2024-10-22**|**E-3DGS: Gaussian Splatting with Exposure and Motion Events**|Xiaoting Yin et.al.|[2410.16995v1](http://arxiv.org/abs/2410.16995v1)|**[link](https://github.com/masterhow/e-3dgs)**|
 |**2024-10-21**|**Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**|Malte Prinzler et.al.|[2410.16395v1](http://arxiv.org/abs/2410.16395v1)|null|
-|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271v1](http://arxiv.org/abs/2410.16271v1)|null|
-|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v2](http://arxiv.org/abs/2410.15392v2)|null|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar et.al.|[2411.03866v1](http://arxiv.org/abs/2411.03866v1)|null|
+|**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang et.al.|[2411.03610v1](http://arxiv.org/abs/2411.03610v1)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
 |**2024-11-04**|**Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing**|Xinran Zhang et.al.|[2411.02553v1](http://arxiv.org/abs/2411.02553v1)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804v1](http://arxiv.org/abs/2411.01804v1)|null|
@@ -70,20 +73,21 @@ layout: default
 |**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669v1](http://arxiv.org/abs/2410.10669v1)|null|
 |**2024-10-13**|**Markerless Aerial-Terrestrial Co-Registration of Forest Point Clouds using a Deformable Pose Graph**|Benoit Casseau et.al.|[2410.09896v1](http://arxiv.org/abs/2410.09896v1)|null|
 |**2024-10-12**|**SLAM-AAC: Enhancing Audio Captioning with Paraphrasing Augmentation and CLAP-Refine through LLMs**|Wenxi Chen et.al.|[2410.09503v1](http://arxiv.org/abs/2410.09503v1)|**[link](https://github.com/X-LANCE/SLAM-LLM)**|
-|**2024-10-12**|**An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation**|Wei Liang et.al.|[2410.09443v1](http://arxiv.org/abs/2410.09443v1)|null|
-|**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|**[link](https://github.com/nail-hnu/esvo2)**|
-|**2024-10-11**|**Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System**|Zheng Liu et.al.|[2410.08935v1](http://arxiv.org/abs/2410.08935v1)|**[link](https://github.com/hku-mars/Voxel-SLAM)**|
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v1](http://arxiv.org/abs/2411.03807v1)|null|
+|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706v1](http://arxiv.org/abs/2411.03706v1)|null|
+|**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
+|**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555v1](http://arxiv.org/abs/2411.03555v1)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086v1](http://arxiv.org/abs/2411.03086v1)|null|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703v1](http://arxiv.org/abs/2411.02703v1)|null|
 |**2024-11-04**|**Modeling Uncertainty in 3D Gaussian Splatting through Continuous Semantic Splatting**|Joey Wilson et.al.|[2411.02547v1](http://arxiv.org/abs/2411.02547v1)|null|
 |**2024-11-04**|**SplatOverflow: Asynchronous Hardware Troubleshooting**|Amritansh Kwatra et.al.|[2411.02332v1](http://arxiv.org/abs/2411.02332v1)|null|
-|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v1](http://arxiv.org/abs/2411.02229v1)|null|
-|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v1](http://arxiv.org/abs/2411.01853v1)|null|
+|**2024-11-04**|**FewViewGS: Gaussian Splatting with Few View Matching and Multi-stage Training**|Ruihong Yin et.al.|[2411.02229v2](http://arxiv.org/abs/2411.02229v2)|null|
+|**2024-11-04**|**GVKF: Gaussian Voxel Kernel Functions for Highly Efficient Surface Reconstruction in Open Scenes**|Gaochao Song et.al.|[2411.01853v2](http://arxiv.org/abs/2411.01853v2)|null|
 |**2024-11-02**|**Real-Time Spatio-Temporal Reconstruction of Dynamic Endoscopic Scenes with 4D Gaussian Splatting**|Fengze Li et.al.|[2411.01218v1](http://arxiv.org/abs/2411.01218v1)|null|
 |**2024-11-01**|**CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**|Yang Liu et.al.|[2411.00771v1](http://arxiv.org/abs/2411.00771v1)|null|
 |**2024-11-01**|**PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding**|Jincen Jiang et.al.|[2411.00632v1](http://arxiv.org/abs/2411.00632v1)|null|
@@ -104,8 +108,4 @@ layout: default
 |**2024-10-28**|**Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting**|Jiawei Xu et.al.|[2410.20815v1](http://arxiv.org/abs/2410.20815v1)|null|
 |**2024-10-28**|**LoDAvatar: Hierarchical Embedding and Adaptive Levels of Detail with Gaussian Splatting for Enhanced Human Avatars**|Xiaonuo Dongye et.al.|[2410.20789v1](http://arxiv.org/abs/2410.20789v1)|null|
 |**2024-10-28**|**CompGS: Unleashing 2D Compositionality for Compositional Text-to-3D via Dynamically Optimizing 3D Gaussians**|Chongjian Ge et.al.|[2410.20723v1](http://arxiv.org/abs/2410.20723v1)|null|
-|**2024-10-28**|**ODGS: 3D Scene Reconstruction from Omnidirectional Images with 3D Gaussian Splattings**|Suyoung Lee et.al.|[2410.20686v1](http://arxiv.org/abs/2410.20686v1)|null|
-|**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593v1](http://arxiv.org/abs/2410.20593v1)|null|
-|**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220v1](http://arxiv.org/abs/2410.20220v1)|null|
-|**2024-10-25**|**DiffGS: Functional Gaussian Splatting Diffusion**|Junsheng Zhou et.al.|[2410.19657v2](http://arxiv.org/abs/2410.19657v2)|null|
 
