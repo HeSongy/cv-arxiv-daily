@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322v1](http://arxiv.org/abs/2411.05322v1)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810v1](http://arxiv.org/abs/2411.04810v1)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386v1](http://arxiv.org/abs/2411.04386v1)|null|
@@ -36,13 +38,12 @@ layout: default
 |**2024-10-23**|**VR-Splatting: Foveated Radiance Field Rendering via 3D Gaussian Splatting and Neural Points**|Linus Franke et.al.|[2410.17932v1](http://arxiv.org/abs/2410.17932v1)|null|
 |**2024-10-23**|**Few-shot NeRF by Adaptive Rendering Loss Regularization**|Qingshan Xu et.al.|[2410.17839v1](http://arxiv.org/abs/2410.17839v1)|null|
 |**2024-10-23**|**Efficient Neural Implicit Representation for 3D Human Reconstruction**|Zexu Huang et.al.|[2410.17741v1](http://arxiv.org/abs/2410.17741v1)|**[link](https://github.com/HZXu-526/Human-Avatar)**|
-|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505v1](http://arxiv.org/abs/2410.17505v1)|null|
-|**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797v1](http://arxiv.org/abs/2411.04797v1)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796v1](http://arxiv.org/abs/2411.04796v1)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|**[link](https://github.com/arclab-hku/deio)**|
@@ -72,7 +73,6 @@ layout: default
 |**2024-10-15**|**V3D-SLAM: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting**|Tuan Dang et.al.|[2410.12068v1](http://arxiv.org/abs/2410.12068v1)|**[link](https://github.com/tuantdang/v3d-slam)**|
 |**2024-10-15**|**GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information**|Wancai Zheng et.al.|[2410.11356v1](http://arxiv.org/abs/2410.11356v1)|null|
 |**2024-10-15**|**Multiview Scene Graph**|Juexiao Zhang et.al.|[2410.11187v2](http://arxiv.org/abs/2410.11187v2)|**[link](https://github.com/ai4ce/MSG)**|
-|**2024-10-14**|**MLP-SLAM: Multilayer Perceptron-Based Simultaneous Localization and Mapping With a Dynamic and Static Object Discriminator**|Taozhe Li et.al.|[2410.10669v1](http://arxiv.org/abs/2410.10669v1)|null|
 
 ## 3DGS
 
@@ -80,7 +80,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006v1](http://arxiv.org/abs/2411.05006v1)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924v1](http://arxiv.org/abs/2411.04924v1)|**[link](https://github.com/donydchen/mvsplat360)**|
-|**2024-11-06**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v2](http://arxiv.org/abs/2411.03807v2)|null|
+|**2024-11-06**|**GS2Pose: Two-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v3](http://arxiv.org/abs/2411.03807v3)|null|
 |**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706v1](http://arxiv.org/abs/2411.03706v1)|**[link](https://github.com/520xyxyzq/3dgs-cd)**|
 |**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
 |**2024-11-05**|**Object and Contact Point Tracking in Demonstrations Using 3D Gaussian Splatting**|Michael Büttner et.al.|[2411.03555v1](http://arxiv.org/abs/2411.03555v1)|null|
