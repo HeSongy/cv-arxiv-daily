@@ -4,13 +4,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**$C^{3}$-NeRF: Modeling Multiple Scenes via Conditional-cum-Continual Neural Radiance Fields**|Prajwal Singh et.al.|[2411.19903v1](http://arxiv.org/abs/2411.19903v1)|null|
+|**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
+|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548v1](http://arxiv.org/abs/2411.19548v1)|null|
+|**2024-11-29**|**LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**|Tianqi Li et.al.|[2411.19525v1](http://arxiv.org/abs/2411.19525v1)|null|
+|**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322v1](http://arxiv.org/abs/2411.19322v1)|null|
+|**2024-11-27**|**Surf-NeRF: Surface Regularised Neural Radiance Fields**|Jack Naylor et.al.|[2411.18652v1](http://arxiv.org/abs/2411.18652v1)|null|
 |**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235v1](http://arxiv.org/abs/2411.17235v1)|**[link](https://github.com/liulisixin/mli-nerf)**|
 |**2024-11-25**|**The Radiance of Neural Fields: Democratizing Photorealistic and Dynamic Robotic Simulation**|Georgina Nuthall et.al.|[2411.16940v1](http://arxiv.org/abs/2411.16940v1)|null|
 |**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v2](http://arxiv.org/abs/2411.16816v2)|**[link](https://github.com/carlinds/splatad)**|
 |**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392v1](http://arxiv.org/abs/2411.16392v1)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172v1](http://arxiv.org/abs/2411.16172v1)|null|
 |**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779v1](http://arxiv.org/abs/2411.15779v1)|null|
-|**2024-11-24**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Xu Baixin et.al.|[2411.15723v1](http://arxiv.org/abs/2411.15723v1)|**[link](https://github.com/xubaixinxbx/gsurf)**|
+|**2024-11-24**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Baixin Xu et.al.|[2411.15723v2](http://arxiv.org/abs/2411.15723v2)|**[link](https://github.com/xubaixinxbx/gsurf)**|
 |**2024-11-23**|**NeRF Inpainting with Geometric Diffusion Prior and Balanced Score Distillation**|Menglin Zhang et.al.|[2411.15551v1](http://arxiv.org/abs/2411.15551v1)|null|
 |**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468v1](http://arxiv.org/abs/2411.15468v1)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631v1](http://arxiv.org/abs/2411.13631v1)|null|
@@ -28,21 +34,16 @@
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279v1](http://arxiv.org/abs/2411.08279v1)|**[link](https://github.com/wu-cvgl/mba-slam)**|
 |**2024-11-12**|**TomoGRAF: A Robust and Generalizable Reconstruction Network for Single-View Computed Tomography**|Di Xu et.al.|[2411.08158v1](http://arxiv.org/abs/2411.08158v1)|null|
 |**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037v1](http://arxiv.org/abs/2411.08037v1)|**[link](https://github.com/astra-vision/brdftransform)**|
-|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757v1](http://arxiv.org/abs/2411.06757v1)|null|
-|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365v1](http://arxiv.org/abs/2411.06365v1)|null|
-|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067v1](http://arxiv.org/abs/2411.06067v1)|null|
-|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557v1](http://arxiv.org/abs/2411.05557v1)|null|
-|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322v1](http://arxiv.org/abs/2411.05322v1)|null|
-|**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984v1](http://arxiv.org/abs/2411.04984v1)|null|
 
 ## SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**Visual SLAMMOT Considering Multiple Motion Models**|Peilin Tian et.al.|[2411.19134v1](http://arxiv.org/abs/2411.19134v1)|null|
 |**2024-11-27**|**ORB-SLAM3AB: Augmenting ORB-SLAM3 to Counteract Bumps with Optical Flow Inter-frame Matching**|Yangrui Dong et.al.|[2411.18174v1](http://arxiv.org/abs/2411.18174v1)|null|
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982v1](http://arxiv.org/abs/2411.17982v1)|null|
 |**2024-11-26**|**MapEval: Towards Unified, Robust and Efficient SLAM Map Evaluation Framework**|Xiangcheng Hu et.al.|[2411.17928v1](http://arxiv.org/abs/2411.17928v1)|**[link](https://github.com/jokerjohn/cloud_map_evaluation)**|
-|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660v1](http://arxiv.org/abs/2411.17660v1)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660v2](http://arxiv.org/abs/2411.17660v2)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-25**|**MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM**|Vladimir Yugay et.al.|[2411.16785v1](http://arxiv.org/abs/2411.16785v1)|null|
 |**2024-11-24**|**Gaussian Scenes: Pose-Free Sparse-View Scene Reconstruction using Depth-Enhanced Diffusion Priors**|Soumava Paul et.al.|[2411.15966v1](http://arxiv.org/abs/2411.15966v1)|null|
 |**2024-11-24**|**Near-Range Environmental Perception for Inland Waterway Vessels: A Comparative Study of LiDAR and Automotive FMCW RADAR Sensors**|R. Herrmann et.al.|[2411.15901v1](http://arxiv.org/abs/2411.15901v1)|null|
@@ -68,12 +69,29 @@
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146v1](http://arxiv.org/abs/2411.07146v1)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752v1](http://arxiv.org/abs/2411.06752v1)|null|
 |**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang et.al.|[2411.06700v1](http://arxiv.org/abs/2411.06700v1)|null|
-|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337v1](http://arxiv.org/abs/2411.05337v1)|null|
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**GuardSplat: Robust and Efficient Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895v1](http://arxiv.org/abs/2411.19895v1)|**[link](https://github.com/narcissusex/guardsplat)**|
+|**2024-11-29**|**DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering**|Yihao Wang et.al.|[2411.19756v1](http://arxiv.org/abs/2411.19756v1)|null|
+|**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654v1](http://arxiv.org/abs/2411.19654v1)|null|
+|**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594v1](http://arxiv.org/abs/2411.19594v1)|null|
+|**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588v1](http://arxiv.org/abs/2411.19588v1)|null|
+|**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551v1](http://arxiv.org/abs/2411.19551v1)|null|
+|**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548v1](http://arxiv.org/abs/2411.19548v1)|null|
+|**2024-11-29**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454v1](http://arxiv.org/abs/2411.19454v1)|null|
+|**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420v1](http://arxiv.org/abs/2411.19420v1)|null|
+|**2024-11-28**|**UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation**|Yichong Lu et.al.|[2411.19292v1](http://arxiv.org/abs/2411.19292v1)|null|
+|**2024-11-28**|**SADG: Segment Any Dynamic Gaussian Without Object Trackers**|Yun-Jin Li et.al.|[2411.19290v1](http://arxiv.org/abs/2411.19290v1)|**[link](https://github.com/yunjinli/SADG-SegmentAnyDynamicGaussian)**|
+|**2024-11-28**|**AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones**|Xuqian Ren et.al.|[2411.19271v1](http://arxiv.org/abs/2411.19271v1)|null|
+|**2024-11-28**|**InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception**|Haijie Li et.al.|[2411.19235v1](http://arxiv.org/abs/2411.19235v1)|null|
+|**2024-11-28**|**Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes**|Thomas Wimmer et.al.|[2411.19233v1](http://arxiv.org/abs/2411.19233v1)|null|
+|**2024-11-28**|**SuperGaussians: Enhancing Gaussian Splatting Using Primitives with Spatially Varying Colors**|Rui Xu et.al.|[2411.18966v1](http://arxiv.org/abs/2411.18966v1)|null|
+|**2024-11-28**|**RIGI: Rectifying Image-to-3D Generation Inconsistency via Uncertainty-aware Learning**|Jiacheng Wang et.al.|[2411.18866v1](http://arxiv.org/abs/2411.18866v1)|null|
+|**2024-11-27**|**GaussianSpeech: Audio-Driven Gaussian Avatars**|Shivangi Aneja et.al.|[2411.18675v1](http://arxiv.org/abs/2411.18675v1)|null|
+|**2024-11-27**|**Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting**|Hao Liu et.al.|[2411.18667v1](http://arxiv.org/abs/2411.18667v1)|null|
 |**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625v1](http://arxiv.org/abs/2411.18625v1)|null|
 |**2024-11-27**|**PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image**|Han Yan et.al.|[2411.18548v1](http://arxiv.org/abs/2411.18548v1)|null|
 |**2024-11-27**|**HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression**|Lei Liu et.al.|[2411.18473v1](http://arxiv.org/abs/2411.18473v1)|null|
@@ -82,26 +100,8 @@
 |**2024-11-27**|**SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images**|Yanyan Li et.al.|[2411.18072v1](http://arxiv.org/abs/2411.18072v1)|null|
 |**2024-11-27**|**GLS: Geometry-aware 3D Language Gaussian Splatting**|Jiaxiong Qiu et.al.|[2411.18066v1](http://arxiv.org/abs/2411.18066v1)|**[link](https://github.com/jiaxiongq/gls)**|
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982v1](http://arxiv.org/abs/2411.17982v1)|null|
-|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660v1](http://arxiv.org/abs/2411.17660v1)|**[link](https://github.com/chenhoy/droid-splat)**|
+|**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660v2](http://arxiv.org/abs/2411.17660v2)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-26**|**Distractor-free Generalizable 3D Gaussian Splatting**|Yanqi Bao et.al.|[2411.17605v1](http://arxiv.org/abs/2411.17605v1)|**[link](https://github.com/bbbbby-99/dggs)**|
-|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190v2](http://arxiv.org/abs/2411.17190v2)|null|
+|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190v3](http://arxiv.org/abs/2411.17190v3)|null|
 |**2024-11-26**|**4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction**|Woong Oh Cho et.al.|[2411.17044v1](http://arxiv.org/abs/2411.17044v1)|null|
-|**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898v1](http://arxiv.org/abs/2411.16898v1)|null|
-|**2024-11-25**|**PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence**|Zequn Chen et.al.|[2411.16877v1](http://arxiv.org/abs/2411.16877v1)|null|
-|**2024-11-25**|**SplatAD: Real-Time Lidar and Camera Rendering with 3D Gaussian Splatting for Autonomous Driving**|Georg Hess et.al.|[2411.16816v2](http://arxiv.org/abs/2411.16816v2)|**[link](https://github.com/carlinds/splatad)**|
-|**2024-11-25**|**NovelGS: Consistent Novel-view Denoising via Large Gaussian Reconstruction Model**|Jinpeng Liu et.al.|[2411.16779v1](http://arxiv.org/abs/2411.16779v1)|null|
-|**2024-11-25**|**GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context**|Wangze Xu et.al.|[2411.16768v1](http://arxiv.org/abs/2411.16768v1)|null|
-|**2024-11-24**|**Bundle Adjusted Gaussian Avatars Deblurring**|Muyao Niu et.al.|[2411.16758v1](http://arxiv.org/abs/2411.16758v1)|null|
-|**2024-11-25**|**SplatFlow: Multi-View Rectified Flow Model for 3D Gaussian Splatting Synthesis**|Hyojun Go et.al.|[2411.16443v1](http://arxiv.org/abs/2411.16443v1)|**[link](https://github.com/gohyojun15/SplatFlow)**|
-|**2024-11-25**|**Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**|Ziyu Zhang et.al.|[2411.16392v1](http://arxiv.org/abs/2411.16392v1)|null|
-|**2024-11-25**|**Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction**|Wenhao Xu et.al.|[2411.16180v1](http://arxiv.org/abs/2411.16180v1)|null|
-|**2024-11-25**|**UnitedVLN: Generalizable Gaussian Splatting for Continuous Vision-Language Navigation**|Guangzhao Dai et.al.|[2411.16053v1](http://arxiv.org/abs/2411.16053v1)|null|
-|**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800v1](http://arxiv.org/abs/2411.15800v1)|null|
-|**2024-11-24**|**ZeroGS: Training 3D Gaussian Splatting from Unposed Images**|Yu Chen et.al.|[2411.15779v1](http://arxiv.org/abs/2411.15779v1)|null|
-|**2024-11-24**|**DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models**|Yangyang Qian et.al.|[2411.15732v1](http://arxiv.org/abs/2411.15732v1)|null|
-|**2024-11-24**|**GSurf: 3D Reconstruction via Signed Distance Fields with Direct Gaussian Supervision**|Xu Baixin et.al.|[2411.15723v1](http://arxiv.org/abs/2411.15723v1)|**[link](https://github.com/xubaixinxbx/gsurf)**|
-|**2024-11-23**|**EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting**|Xiaobao Wei et.al.|[2411.15582v1](http://arxiv.org/abs/2411.15582v1)|null|
-|**2024-11-23**|**SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving**|Su Sun et.al.|[2411.15482v1](http://arxiv.org/abs/2411.15482v1)|null|
-|**2024-11-23**|**Gassidy: Gaussian Splatting SLAM in Dynamic Environments**|Long Wen et.al.|[2411.15476v1](http://arxiv.org/abs/2411.15476v1)|null|
-|**2024-11-23**|**SplatSDF: Boosting Neural Implicit SDF via Gaussian Splatting Fusion**|Runfa Blark Li et.al.|[2411.15468v1](http://arxiv.org/abs/2411.15468v1)|null|
 
