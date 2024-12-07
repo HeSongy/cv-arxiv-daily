@@ -40,12 +40,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v1](http://arxiv.org/abs/2412.04463v1)|null|
-|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|null|
+|**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|**[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)**|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v1](http://arxiv.org/abs/2412.03887v1)|null|
 |**2024-12-04**|**Large-Scale Dense 3D Mapping Using Submaps Derived From Orthogonal Imaging Sonars**|John McConnell et.al.|[2412.03760v1](http://arxiv.org/abs/2412.03760v1)|null|
 |**2024-12-04**|**BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement**|Miguel Arturo Vega Torres et.al.|[2412.03434v1](http://arxiv.org/abs/2412.03434v1)|**[link](https://github.com/migvega/bimcap)**|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263v1](http://arxiv.org/abs/2412.03263v1)|null|
-|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|null|
+|**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
 |**2024-12-03**|**ROVER: A Multi-Season Dataset for Visual SLAM**|Fabian Schmidt et.al.|[2412.02506v1](http://arxiv.org/abs/2412.02506v1)|**[link](https://github.com/iis-esslingen/rover_benchmark)**|
 |**2024-12-02**|**RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting**|Zhenzhong Cao et.al.|[2412.01217v2](http://arxiv.org/abs/2412.01217v2)|**[link](https://github.com/zhenzhongcao/rgbds-slam)**|
@@ -87,13 +87,13 @@
 |**2024-12-04**|**Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction**|Ziwen Li et.al.|[2412.03473v1](http://arxiv.org/abs/2412.03473v1)|null|
 |**2024-12-04**|**2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction**|Wanting Zhang et.al.|[2412.03428v1](http://arxiv.org/abs/2412.03428v1)|null|
 |**2024-12-04**|**Volumetrically Consistent 3D Gaussian Rasterization**|Chinmay Talegaonkar et.al.|[2412.03378v1](http://arxiv.org/abs/2412.03378v1)|null|
-|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371v1](http://arxiv.org/abs/2412.03371v1)|null|
+|**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371v1](http://arxiv.org/abs/2412.03371v1)|**[link](https://github.com/JianlingWANG2021/SGSST)**|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263v1](http://arxiv.org/abs/2412.03263v1)|null|
 |**2024-12-04**|**Splats in Splats: Embedding Invisible 3D Watermark within Gaussian Splatting**|Yijia Guo et.al.|[2412.03121v1](http://arxiv.org/abs/2412.03121v1)|null|
 |**2024-12-04**|**RoDyGS: Robust Dynamic Gaussian Splatting for Casual Videos**|Yoonwoo Jeong et.al.|[2412.03077v1](http://arxiv.org/abs/2412.03077v1)|null|
 |**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803v1](http://arxiv.org/abs/2412.02803v1)|null|
 |**2024-12-03**|**AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**|Lingteng Qiu et.al.|[2412.02684v1](http://arxiv.org/abs/2412.02684v1)|null|
-|**2024-12-03**|**RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**|Qiankun Gao et.al.|[2412.02493v1](http://arxiv.org/abs/2412.02493v1)|null|
+|**2024-12-03**|**RelayGS: Reconstructing Dynamic Scenes with Large-Scale and Complex Motions via Relay Gaussians**|Qiankun Gao et.al.|[2412.02493v1](http://arxiv.org/abs/2412.02493v1)|**[link](https://github.com/gqk/relaygs)**|
 |**2024-12-03**|**TimeWalker: Personalized Neural Space for Lifelong Head Avatars**|Dongwei Pan et.al.|[2412.02421v1](http://arxiv.org/abs/2412.02421v1)|null|
 |**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267v1](http://arxiv.org/abs/2412.02267v1)|null|
 |**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249v1](http://arxiv.org/abs/2412.02249v1)|null|
