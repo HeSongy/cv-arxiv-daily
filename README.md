@@ -39,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
 |**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
@@ -68,12 +69,18 @@
 |**2024-12-05**|**MegaSaM: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos**|Zhengqi Li et.al.|[2412.04463v2](http://arxiv.org/abs/2412.04463v2)|null|
 |**2024-12-05**|**Multi-cam Multi-map Visual Inertial Localization: System, Validation and Dataset**|Fuzhang Han et.al.|[2412.04287v1](http://arxiv.org/abs/2412.04287v1)|**[link](https://github.com/zoeylove/multi-cam-multi-map-vilo)**|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887v3](http://arxiv.org/abs/2412.03887v3)|null|
-|**2024-12-04**|**Large-Scale Dense 3D Mapping Using Submaps Derived From Orthogonal Imaging Sonars**|John McConnell et.al.|[2412.03760v1](http://arxiv.org/abs/2412.03760v1)|null|
 
 ## 3DGS
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Deformable Gaussian Splatting for Efficient and High-Fidelity Reconstruction of Surgical Scenes**|Jiwei Shan et.al.|[2501.01101v1](http://arxiv.org/abs/2501.01101v1)|null|
+|**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003v1](http://arxiv.org/abs/2501.01003v1)|null|
+|**2024-12-31**|**Gaussian Building Mesh (GBM): Extract a Building's 3D Mesh with Google Earth and Gaussian Splatting**|Kyle Gao et.al.|[2501.00625v1](http://arxiv.org/abs/2501.00625v1)|null|
+|**2024-12-31**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601v1](http://arxiv.org/abs/2501.00601v1)|null|
+|**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
+|**2024-12-31**|**SG-Splatting: Accelerating 3D Gaussian Splatting with Spherical Gaussians**|Yiwen Wang et.al.|[2501.00342v1](http://arxiv.org/abs/2501.00342v1)|null|
+|**2024-12-31**|**OVGaussian: Generalizable 3D Gaussian Segmentation with Open Vocabularies**|Runnan Chen et.al.|[2501.00326v1](http://arxiv.org/abs/2501.00326v1)|null|
 |**2024-12-30**|**PERSE: Personalized 3D Generative Avatars from A Single Portrait**|Hyunsoo Cha et.al.|[2412.21206v1](http://arxiv.org/abs/2412.21206v1)|null|
 |**2024-12-30**|**KeyGS: A Keyframe-Centric Gaussian Splatting Method for Monocular Image Sequences**|Keng-Wei Chang et.al.|[2412.20767v1](http://arxiv.org/abs/2412.20767v1)|null|
 |**2024-12-30**|**4D Gaussian Splatting: Modeling Dynamic Scenes with Native 4D Primitives**|Zeyu Yang et.al.|[2412.20720v1](http://arxiv.org/abs/2412.20720v1)|null|
@@ -97,11 +104,4 @@
 |**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812v1](http://arxiv.org/abs/2412.17812v1)|null|
 |**2024-12-23**|**ActiveGS: Active Scene Reconstruction using Gaussian Splatting**|Liren Jin et.al.|[2412.17769v1](http://arxiv.org/abs/2412.17769v1)|**[link](https://github.com/dmar-bonn/active-gs)**|
 |**2024-12-23**|**GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance**|Jingqiu Zhou et.al.|[2412.17715v1](http://arxiv.org/abs/2412.17715v1)|null|
-|**2024-12-23**|**LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding**|Hao Li et.al.|[2412.17635v2](http://arxiv.org/abs/2412.17635v2)|null|
-|**2024-12-23**|**CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**|Yuanyuan Gao et.al.|[2412.17612v1](http://arxiv.org/abs/2412.17612v1)|null|
-|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532v1](http://arxiv.org/abs/2412.17532v1)|null|
-|**2024-12-23**|**Balanced 3DGS: Gaussian-wise Parallelism Rendering with Fine-Grained Tiling**|Hao Gui et.al.|[2412.17378v1](http://arxiv.org/abs/2412.17378v1)|null|
-|**2024-12-22**|**GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs**|Xingrui Wang et.al.|[2412.16932v1](http://arxiv.org/abs/2412.16932v1)|null|
-|**2024-12-22**|**GeoTexDensifier: Geometry-Texture-Aware Densification for High-Quality Photorealistic 3D Gaussian Splatting**|Hanqing Jiang et.al.|[2412.16809v1](http://arxiv.org/abs/2412.16809v1)|null|
-|**2024-12-21**|**Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity**|Tianqi Shen et.al.|[2412.16619v2](http://arxiv.org/abs/2412.16619v2)|**[link](https://github.com/amadeusstq/topology-gs)**|
 
