@@ -8,6 +8,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646v1](http://arxiv.org/abs/2501.14646v1)|null|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971v1](http://arxiv.org/abs/2501.13971v1)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104v1](http://arxiv.org/abs/2501.13104v1)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637v1](http://arxiv.org/abs/2501.12637v1)|null|
@@ -36,13 +38,14 @@ layout: default
 |**2024-12-26**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370v2](http://arxiv.org/abs/2412.19370v2)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149v1](http://arxiv.org/abs/2412.19149v1)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
-|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
-|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628v1](http://arxiv.org/abs/2412.17628v1)|null|
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486v1](http://arxiv.org/abs/2501.14486v1)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876v1](http://arxiv.org/abs/2501.13876v1)|null|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402v1](http://arxiv.org/abs/2501.13402v1)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764v1](http://arxiv.org/abs/2501.12764v1)|null|
@@ -70,14 +73,18 @@ layout: default
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|**[link](https://github.com/sdwyc/rolo)**|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352v1](http://arxiv.org/abs/2501.00352v1)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976v1](http://arxiv.org/abs/2412.20976v1)|null|
-|**2024-12-28**|**MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing**|Shuo Wang et.al.|[2412.20082v1](http://arxiv.org/abs/2412.20082v1)|null|
-|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584v1](http://arxiv.org/abs/2412.19584v1)|null|
-|**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130v1](http://arxiv.org/abs/2412.19130v1)|null|
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting**|Anil Armagan et.al.|[2501.14534v1](http://arxiv.org/abs/2501.14534v1)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319v1](http://arxiv.org/abs/2501.14319v1)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277v1](http://arxiv.org/abs/2501.14277v1)|null|
+|**2025-01-24**|**Micro-macro Wavelet-based Gaussian Splatting for 3D Reconstruction from Unconstrained Images**|Yihui Li et.al.|[2501.14231v1](http://arxiv.org/abs/2501.14231v1)|null|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147v1](http://arxiv.org/abs/2501.14147v1)|null|
+|**2025-01-22**|**3DGS$^2$: Near Second-order Converging 3D Gaussian Splatting**|Lei Lan et.al.|[2501.13975v1](http://arxiv.org/abs/2501.13975v1)|null|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971v1](http://arxiv.org/abs/2501.13971v1)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**GoDe: Gaussians on Demand for Progressive Level of Detail and Scalable Compression**|Francesco Di Sario et.al.|[2501.13558v1](http://arxiv.org/abs/2501.13558v1)|null|
 |**2025-01-23**|**MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance**|Wooseok Song et.al.|[2501.13449v1](http://arxiv.org/abs/2501.13449v1)|null|
 |**2025-01-23**|**GeomGS: LiDAR-Guided Geometry-Aware Gaussian Splatting for Robot Localization**|Jaewon Lee et.al.|[2501.13417v1](http://arxiv.org/abs/2501.13417v1)|null|
@@ -99,13 +106,6 @@ layout: default
 |**2025-01-14**|**3D Gaussian Splatting with Normal Information for Mesh Extraction and Improved Rendering**|Meenakshi Krishnan et.al.|[2501.08370v1](http://arxiv.org/abs/2501.08370v1)|null|
 |**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286v1](http://arxiv.org/abs/2501.08286v1)|null|
 |**2025-01-14**|**Object-Centric 2D Gaussian Splatting: Background Removal and Occlusion-Aware Pruning for Compact Object Models**|Marcel Rogge et.al.|[2501.08174v1](http://arxiv.org/abs/2501.08174v1)|null|
-|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072v1](http://arxiv.org/abs/2501.08072v1)|null|
 |**2025-01-13**|**UnCommon Objects in 3D**|Xingchen Liu et.al.|[2501.07574v1](http://arxiv.org/abs/2501.07574v1)|**[link](https://github.com/facebookresearch/uco3d)**|
 |**2025-01-13**|**3DGS-to-PC: Convert a 3D Gaussian Splatting Scene into a Dense Point Cloud or Mesh**|Lewis A G Stuart et.al.|[2501.07478v1](http://arxiv.org/abs/2501.07478v1)|**[link](https://github.com/lewis-stuart-11/3dgs-to-pc)**|
-|**2025-01-13**|**RMAvatar: Photorealistic Human Avatar Reconstruction from Monocular Video Based on Rectified Mesh-embedded Gaussians**|Sen Peng et.al.|[2501.07104v1](http://arxiv.org/abs/2501.07104v1)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015v2](http://arxiv.org/abs/2501.07015v2)|null|
-|**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927v1](http://arxiv.org/abs/2501.06927v1)|null|
-|**2025-01-12**|**Synthetic Prior for Few-Shot Drivable Head Avatar Inversion**|Wojciech Zielonka et.al.|[2501.06903v1](http://arxiv.org/abs/2501.06903v1)|null|
-|**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897v1](http://arxiv.org/abs/2501.06897v1)|null|
-|**2025-01-12**|**Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution**|Du Chen et.al.|[2501.06838v2](http://arxiv.org/abs/2501.06838v2)|null|
 
