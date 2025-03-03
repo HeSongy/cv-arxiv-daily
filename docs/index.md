@@ -11,7 +11,7 @@ layout: default
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873v1](http://arxiv.org/abs/2502.19873v1)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
 |**2025-02-26**|**The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields**|Ziyuan Luo et.al.|[2502.19125v1](http://arxiv.org/abs/2502.19125v1)|null|
 |**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992v1](http://arxiv.org/abs/2502.16992v1)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
 |**2025-02-22**|**AquaNeRF: Neural Radiance Fields in Underwater Media with Distractor Removal**|Luca Gough et.al.|[2502.16351v1](http://arxiv.org/abs/2502.16351v1)|null|
@@ -43,10 +43,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767v1](http://arxiv.org/abs/2502.20767v1)|null|
 |**2025-02-27**|**BEV-DWPVO: BEV-based Differentiable Weighted Procrustes for Low Scale-drift Monocular Visual Odometry on Ground**|Yufei Wei et.al.|[2502.20078v1](http://arxiv.org/abs/2502.20078v1)|null|
 |**2025-02-26**|**Increasing the Task Flexibility of Heavy-Duty Manipulators Using Visual 6D Pose Estimation of Objects**|Petri Mäkinen et.al.|[2502.19169v1](http://arxiv.org/abs/2502.19169v1)|null|
 |**2025-02-26**|**SLAM in the Dark: Self-Supervised Learning of Pose, Depth and Loop-Closure from Thermal Images**|Yangfan Xu et.al.|[2502.18932v1](http://arxiv.org/abs/2502.18932v1)|null|
-|**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle et.al.|[2502.18044v1](http://arxiv.org/abs/2502.18044v1)|**[link](https://github.com/snt-arg/lidar_situational_graphs)**|
+|**2025-02-25**|**S-Graphs 2.0 -- A Hierarchical-Semantic Optimization and Loop Closure for SLAM**|Hriday Bavle et.al.|[2502.18044v2](http://arxiv.org/abs/2502.18044v2)|**[link](https://github.com/snt-arg/lidar_situational_graphs)**|
 |**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237v2](http://arxiv.org/abs/2502.17237v2)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-24**|**SLABIM: A SLAM-BIM Coupled Dataset in HKUST Main Building**|Haoming Huang et.al.|[2502.16856v1](http://arxiv.org/abs/2502.16856v1)|**[link](https://github.com/hkust-aerial-robotics/slabim)**|
 |**2025-02-23**|**Orchestrating Joint Offloading and Scheduling for Low-Latency Edge SLAM**|Yao Zhang et.al.|[2502.16495v2](http://arxiv.org/abs/2502.16495v2)|null|
@@ -72,12 +73,13 @@ layout: default
 |**2025-02-03**|**Statistical enhanced learning for modeling and prediction tennis matches at Grand Slam tournaments**|Nourah Buhamra et.al.|[2502.01613v2](http://arxiv.org/abs/2502.01613v2)|null|
 |**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092v1](http://arxiv.org/abs/2502.01092v1)|null|
 |**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395v1](http://arxiv.org/abs/2502.00395v1)|**[link](https://github.com/tumftm/flexcloud)**|
-|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382v1](http://arxiv.org/abs/2501.19382v1)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 
 ## 3DGS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v1](http://arxiv.org/abs/2502.21093v1)|null|
+|**2025-02-28**|**EndoPBR: Material and Lighting Estimation for Photorealistic Surgical Simulations via Physically-based Rendering**|John J. Han et.al.|[2502.20669v1](http://arxiv.org/abs/2502.20669v1)|null|
 |**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387v1](http://arxiv.org/abs/2502.20387v1)|null|
 |**2025-02-27**|**ATLAS Navigator: Active Task-driven LAnguage-embedded Gaussian Splatting**|Dexter Ong et.al.|[2502.20386v1](http://arxiv.org/abs/2502.20386v1)|null|
 |**2025-02-27**|**Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling**|Hanyang Kong et.al.|[2502.20378v1](http://arxiv.org/abs/2502.20378v1)|null|
@@ -85,8 +87,8 @@ layout: default
 |**2025-02-27**|**Open-Vocabulary Semantic Part Segmentation of 3D Human**|Keito Suzuki et.al.|[2502.19782v1](http://arxiv.org/abs/2502.19782v1)|null|
 |**2025-02-26**|**Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**|Yu Liu et.al.|[2502.19459v1](http://arxiv.org/abs/2502.19459v1)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
-|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v1](http://arxiv.org/abs/2502.18041v1)|null|
+|**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318v1](http://arxiv.org/abs/2502.19318v1)|**[link](https://github.com/cg-tuwien/does_3d_gaussian_splatting_need_accurate_volumetric_rendering)**|
+|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041v2](http://arxiv.org/abs/2502.18041v2)|null|
 |**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860v2](http://arxiv.org/abs/2502.17860v2)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531v1](http://arxiv.org/abs/2502.17531v1)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377v1](http://arxiv.org/abs/2502.17377v1)|null|
@@ -105,7 +107,5 @@ layout: default
 |**2025-02-19**|**GlossGau: Efficient Inverse Rendering for Glossy Surface with Anisotropic Spherical Gaussian**|Bang Du et.al.|[2502.14129v1](http://arxiv.org/abs/2502.14129v1)|null|
 |**2025-02-19**|**Inter3D: A Benchmark and Strong Baseline for Human-Interactive 3D Object Reconstruction**|Gan Chen et.al.|[2502.14004v1](http://arxiv.org/abs/2502.14004v1)|**[link](https://github.com/Inter3D-ui/Inter3D)**|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803v1](http://arxiv.org/abs/2502.13803v1)|null|
-|**2025-02-18**|**GS-QA: Comprehensive Quality Assessment Benchmark for Gaussian Splatting View Synthesis**|Pedro Martin et.al.|[2502.13196v1](http://arxiv.org/abs/2502.13196v1)|null|
 |**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[2502.13144v1](http://arxiv.org/abs/2502.13144v1)|null|
-|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686v1](http://arxiv.org/abs/2502.12686v1)|null|
 
