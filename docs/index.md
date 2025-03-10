@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 
 ## NeRF
 
@@ -100,7 +100,7 @@ layout: default
 |**2025-03-02**|**Enhancing Monocular 3D Scene Completion with Diffusion Model**|Changlin Song et.al.|[2503.00726v1](http://arxiv.org/abs/2503.00726v1)|null|
 |**2025-03-01**|**GaussianSeal: Rooting Adaptive Watermarks for 3D Gaussian Generation Model**|Runyi Li et.al.|[2503.00531v1](http://arxiv.org/abs/2503.00531v1)|null|
 |**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|null|
-|**2025-03-01**|**CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.00357v1](http://arxiv.org/abs/2503.00357v1)|null|
+|**2025-03-01**|**CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**|Yu-Ting Zhan et.al.|[2503.00357v2](http://arxiv.org/abs/2503.00357v2)|null|
 |**2025-03-01**|**Abstract Rendering: Computing All that is Seen in Gaussian Splat Scenes**|Yangge Li et.al.|[2503.00308v2](http://arxiv.org/abs/2503.00308v2)|null|
 |**2025-03-01**|**Seeing A 3D World in A Grain of Sand**|Yufan Zhang et.al.|[2503.00260v1](http://arxiv.org/abs/2503.00260v1)|null|
 |**2025-02-28**|**FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering**|Jingqiu Zhou et.al.|[2502.21093v2](http://arxiv.org/abs/2502.21093v2)|null|
