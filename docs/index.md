@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 
 ## NeRF
 
@@ -31,7 +31,7 @@ layout: default
 |**2025-03-03**|**Category-level Meta-learned NeRF Priors for Efficient Object Mapping**|Saad Ejaz et.al.|[2503.01582v2](http://arxiv.org/abs/2503.01582v2)|null|
 |**2025-03-03**|**LiteGS: A High-Performance Modular Framework for Gaussian Splatting Training**|Kaimin Liao et.al.|[2503.01199v1](http://arxiv.org/abs/2503.01199v1)|**[link](https://github.com/moorethreads/litegs)**|
 |**2025-03-02**|**DreamPrinting: Volumetric Printing Primitives for High-Fidelity 3D Printing**|Youjia Wang et.al.|[2503.00887v1](http://arxiv.org/abs/2503.00887v1)|null|
-|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|null|
+|**2025-03-01**|**Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups**|Nicholas Pfaff et.al.|[2503.00370v1](http://arxiv.org/abs/2503.00370v1)|**[link](https://github.com/nepfaff/scalable-real2sim)**|
 |**2025-02-27**|**Identity-preserving Distillation Sampling by Fixed-Point Iterator**|SeonHwa Kim et.al.|[2502.19930v1](http://arxiv.org/abs/2502.19930v1)|null|
 |**2025-02-27**|**NeRFCom: Feature Transform Coding Meets Neural Radiance Field for Free-View 3D Scene Semantic Transmission**|Weijie Yue et.al.|[2502.19873v1](http://arxiv.org/abs/2502.19873v1)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457v1](http://arxiv.org/abs/2502.19457v1)|null|
@@ -50,10 +50,10 @@ layout: default
 |**2025-03-11**|**GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**|Kai Deng et.al.|[2503.08071v1](http://arxiv.org/abs/2503.08071v1)|null|
 |**2025-03-10**|**POp-GS: Next Best View in 3D-Gaussian Splatting with P-Optimality**|Joey Wilson et.al.|[2503.07819v1](http://arxiv.org/abs/2503.07819v1)|null|
 |**2025-03-08**|**HIPPO-MAT: Decentralized Task Allocation Using GraphSAGE and Multi-Agent Deep Reinforcement Learning**|Lavanya Ratnabala et.al.|[2503.07662v1](http://arxiv.org/abs/2503.07662v1)|null|
-|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890v1](http://arxiv.org/abs/2503.06890v1)|null|
-|**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010v1](http://arxiv.org/abs/2503.06010v1)|null|
+|**2025-03-10**|**AirSwarm: Enabling Cost-Effective Multi-UAV Research with COTS drones**|Xiaowei Li et.al.|[2503.06890v1](http://arxiv.org/abs/2503.06890v1)|**[link](https://github.com/vvEverett/tello_ros)**|
+|**2025-03-08**|**InfoFusion Controller: Informed TRRT Star with Mutual Information based on Fusion of Pure Pursuit and MPC for Enhanced Path Planning**|Seongjun Choi et.al.|[2503.06010v1](http://arxiv.org/abs/2503.06010v1)|**[link](https://github.com/drawingprocess/infofusioncontroller)**|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
-|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|null|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077v1](http://arxiv.org/abs/2503.05077v1)|**[link](https://github.com/chengwei0427/adaptive_lio)**|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286v1](http://arxiv.org/abs/2503.04286v1)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
@@ -72,7 +72,7 @@ layout: default
 |**2025-03-03**|**MLINE-VINS: Robust Monocular Visual-Inertial SLAM With Flow Manhattan and Line Features**|Chao Ye et.al.|[2503.01571v1](http://arxiv.org/abs/2503.01571v1)|**[link](https://github.com/lihaoy-ux/mline-vins)**|
 |**2025-03-03**|**AI-Driven Relocation Tracking in Dynamic Kitchen Environments**|Arash Nasr Esfahani et.al.|[2503.01547v1](http://arxiv.org/abs/2503.01547v1)|**[link](https://github.com/ArashNasrEsfahani/Object-Rearrangement-in-Dynamic-Environments)**|
 |**2025-03-03**|**Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning**|Xintao Chao et.al.|[2503.01543v1](http://arxiv.org/abs/2503.01543v1)|null|
-|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|**[link](https://github.com/CLASS-Lab/RUSSO)**|
+|**2025-03-03**|**RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation**|Shu Pan et.al.|[2503.01434v1](http://arxiv.org/abs/2503.01434v1)|null|
 
 ## 3DGS
 
