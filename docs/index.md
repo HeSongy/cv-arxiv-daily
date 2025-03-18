@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.17
+## Updated on 2025.03.18
 
 ## NeRF
 
@@ -88,7 +88,7 @@ layout: default
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286v1](http://arxiv.org/abs/2503.10286v1)|null|
 |**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256v1](http://arxiv.org/abs/2503.10256v1)|null|
 |**2025-03-13**|**GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction**|Jianheng Liu et.al.|[2503.10170v1](http://arxiv.org/abs/2503.10170v1)|**[link](https://github.com/hku-mars/gs-sdf)**|
-|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148v1](http://arxiv.org/abs/2503.10148v1)|**[link](https://github.com/realcrane/student-splating-scooping)**|
+|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148v2](http://arxiv.org/abs/2503.10148v2)|**[link](https://github.com/realcrane/student-splating-scooping)**|
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143v1](http://arxiv.org/abs/2503.10143v1)|null|
 |**2025-03-13**|**AI-assisted 3D Preservation and Reconstruction of Temple Arts**|Naai-Jung Shih et.al.|[2503.10031v1](http://arxiv.org/abs/2503.10031v1)|null|
 |**2025-03-12**|**Physics-Aware Human-Object Rendering from Sparse Views via 3D Gaussian Splatting**|Weiquan Wang et.al.|[2503.09640v1](http://arxiv.org/abs/2503.09640v1)|null|
