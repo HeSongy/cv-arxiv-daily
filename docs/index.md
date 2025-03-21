@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 
 ## NeRF
 
@@ -94,7 +94,7 @@ layout: default
 |**2025-03-17**|**CompMarkGS: Robust Watermarking for Compression 3D Gaussian Splatting**|Sumin In et.al.|[2503.12836v1](http://arxiv.org/abs/2503.12836v1)|null|
 |**2025-03-17**|**AV-Surf: Surface-Enhanced Geometry-Aware Novel-View Acoustic Synthesis**|Hadam Baek et.al.|[2503.12806v1](http://arxiv.org/abs/2503.12806v1)|null|
 |**2025-03-16**|**Deblur Gaussian Splatting SLAM**|Francesco Girlanda et.al.|[2503.12572v1](http://arxiv.org/abs/2503.12572v1)|null|
-|**2025-03-16**|**MTGS: Multi-Traversal Gaussian Splatting**|Tianyu Li et.al.|[2503.12552v1](http://arxiv.org/abs/2503.12552v1)|null|
+|**2025-03-16**|**MTGS: Multi-Traversal Gaussian Splatting**|Tianyu Li et.al.|[2503.12552v2](http://arxiv.org/abs/2503.12552v2)|null|
 |**2025-03-16**|**SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs**|Guibiao Liao et.al.|[2503.12535v1](http://arxiv.org/abs/2503.12535v1)|null|
 |**2025-03-16**|**VRsketch2Gaussian: 3D VR Sketch Guided 3D Object Generation with Gaussian Splatting**|Songen Gu et.al.|[2503.12383v1](http://arxiv.org/abs/2503.12383v1)|null|
 |**2025-03-16**|**TopoGaussian: Inferring Internal Topology Structures from Visual Clues**|Xiaoyu Xiong et.al.|[2503.12343v1](http://arxiv.org/abs/2503.12343v1)|null|
