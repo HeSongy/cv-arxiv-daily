@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 
 ## NeRF
 
@@ -54,7 +54,7 @@ layout: default
 |**2025-03-30**|**A Visual-Inertial Motion Prior SLAM for Dynamic Environments**|Weilong Sun et.al.|[2503.23429v1](http://arxiv.org/abs/2503.23429v1)|null|
 |**2025-03-30**|**AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**|Felix Wimbauer et.al.|[2503.23282v1](http://arxiv.org/abs/2503.23282v1)|**[link](https://github.com/Brummi/anycam)**|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199v1](http://arxiv.org/abs/2503.23199v1)|null|
-|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-mobility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v1](http://arxiv.org/abs/2503.22943v1)|null|
+|**2025-03-29**|**Towards Mobile Sensing with Event Cameras on High-agility Resource-constrained Devices: A Survey**|Haoyang Wang et.al.|[2503.22943v2](http://arxiv.org/abs/2503.22943v2)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778v1](http://arxiv.org/abs/2503.21778v1)|null|
 |**2025-03-27**|**STAMICS: Splat, Track And Map with Integrated Consistency and Semantics for Dense RGB-D SLAM**|Yongxu Wang et.al.|[2503.21425v1](http://arxiv.org/abs/2503.21425v1)|null|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543v1](http://arxiv.org/abs/2503.19543v1)|null|
