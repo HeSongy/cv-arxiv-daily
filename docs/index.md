@@ -8,6 +8,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|null|
+|**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920v1](http://arxiv.org/abs/2504.06920v1)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|null|
 |**2025-04-08**|**Meta-Continual Learning of Neural Fields**|Seungyoon Woo et.al.|[2504.05806v1](http://arxiv.org/abs/2504.05806v1)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|null|
 |**2025-04-08**|**InvNeRF-Seg: Fine-Tuning a Pre-Trained NeRF for 3D Object Segmentation**|Jiangsan Zhao et.al.|[2504.05751v1](http://arxiv.org/abs/2504.05751v1)|null|
@@ -28,7 +31,6 @@ layout: default
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219v1](http://arxiv.org/abs/2504.00219v1)|null|
 |**2025-03-31**|**ERUPT: Efficient Rendering with Unposed Patch Transformer**|Maxim V. Shugaev et.al.|[2503.24374v1](http://arxiv.org/abs/2503.24374v1)|null|
 |**2025-03-29**|**NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations**|Zhenyu Tang et.al.|[2503.23162v1](http://arxiv.org/abs/2503.23162v1)|null|
-|**2025-03-26**|**Dual Audio-Centric Modality Coupling for Talking Head Generation**|Ao Fu et.al.|[2503.22728v1](http://arxiv.org/abs/2503.22728v1)|null|
 |**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218v1](http://arxiv.org/abs/2503.22218v1)|null|
 |**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958v1](http://arxiv.org/abs/2503.21958v1)|null|
 |**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886v1](http://arxiv.org/abs/2503.21886v1)|null|
@@ -36,8 +38,6 @@ layout: default
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442v2](http://arxiv.org/abs/2503.21442v2)|null|
 |**2025-03-27**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364v2](http://arxiv.org/abs/2503.21364v2)|**[link](https://github.com/internlandmark/landmarksystem)**|
 |**2025-03-27**|**UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation**|Yehui Shen et.al.|[2503.21338v1](http://arxiv.org/abs/2503.21338v1)|**[link](https://github.com/nubot-nudt/ugna-vpr)**|
-|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654v1](http://arxiv.org/abs/2503.20654v1)|null|
-|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168v1](http://arxiv.org/abs/2503.20168v1)|null|
 
 ## SLAM
 
@@ -78,6 +78,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978v1](http://arxiv.org/abs/2504.06978v1)|null|
+|**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827v1](http://arxiv.org/abs/2504.06827v1)|null|
+|**2025-04-09**|**SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering**|Hanxiao Sun et.al.|[2504.06815v1](http://arxiv.org/abs/2504.06815v1)|null|
+|**2025-04-09**|**GSta: Efficient Training Scheme with Siestaed Gaussians for Monocular 3D Scene Reconstruction**|Anil Armagan et.al.|[2504.06716v1](http://arxiv.org/abs/2504.06716v1)|null|
+|**2025-04-09**|**Collision avoidance from monocular vision trained with novel view synthesis**|Valentin Tordjman--Levavasseur et.al.|[2504.06651v1](http://arxiv.org/abs/2504.06651v1)|null|
+|**2025-04-09**|**Stochastic Ray Tracing of 3D Transparent Gaussians**|X. Sun et.al.|[2504.06598v1](http://arxiv.org/abs/2504.06598v1)|null|
 |**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003v1](http://arxiv.org/abs/2504.06003v1)|null|
 |**2025-04-08**|**SE4Lip: Speech-Lip Encoder for Talking Head Synthesis to Solve Phoneme-Viseme Alignment Ambiguity**|Yihuan Huang et.al.|[2504.05803v1](http://arxiv.org/abs/2504.05803v1)|null|
 |**2025-04-08**|**Micro-splatting: Maximizing Isotropic Constraints for Refined Optimization in 3D Gaussian Splatting**|Jee Won Lee et.al.|[2504.05740v1](http://arxiv.org/abs/2504.05740v1)|null|
@@ -102,10 +108,4 @@ layout: default
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045v1](http://arxiv.org/abs/2504.02045v1)|null|
 |**2025-04-02**|**Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis**|Niluthpol Chowdhury Mithun et.al.|[2504.01960v1](http://arxiv.org/abs/2504.01960v1)|null|
 |**2025-04-02**|**Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957v2](http://arxiv.org/abs/2504.01957v2)|null|
-|**2025-04-02**|**BOGausS: Better Optimized Gaussian Splatting**|Stéphane Pateux et.al.|[2504.01844v1](http://arxiv.org/abs/2504.01844v1)|null|
-|**2025-04-02**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732v2](http://arxiv.org/abs/2504.01732v2)|null|
-|**2025-04-02**|**FlowR: Flowing from Sparse to Dense 3D Reconstructions**|Tobias Fischer et.al.|[2504.01647v1](http://arxiv.org/abs/2504.01647v1)|null|
-|**2025-04-02**|**3DBonsai: Structure-Aware Bonsai Modeling Using Conditioned 3D Gaussian Splatting**|Hao Wu et.al.|[2504.01619v1](http://arxiv.org/abs/2504.01619v1)|null|
-|**2025-04-02**|**RealityAvatar: Towards Realistic Loose Clothing Modeling in Animatable 3D Gaussian Avatars**|Yahui Li et.al.|[2504.01559v1](http://arxiv.org/abs/2504.01559v1)|null|
-|**2025-04-02**|**High-fidelity 3D Object Generation from Single Image with RGBN-Volume Gaussian Reconstruction Model**|Yiyang Shen et.al.|[2504.01512v1](http://arxiv.org/abs/2504.01512v1)|null|
 
