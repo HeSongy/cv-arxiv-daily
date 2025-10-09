@@ -180,10 +180,11 @@ if __name__ == "__main__":
     
     keywords = dict()
     # keywords["NeRF"] = "\"NeRF Super Resolution\"OR\"NeRF Depth Estimation\"OR\"NeRF Disparity Estimation\"OR\"NeRF View Synthesis\"OR\"NeRF\""
-    keywords["SLAM"] = "\"SLAM\"OR\"Visual Odometry\""
+    # keywords["SLAM"] = "\"SLAM\"OR\"Visual Odometry\""
     keywords["3DGS"] = "\"Gaussian Splatting\"OR\"3DGS\""
-    keywords["Sence Graph"] = "\"Sence Graph\"OR\"3DSG\""
-     
+    # keywords["Sence Graph"] = "\"Sence Graph\"OR\"3DSG\""
+    keywords["VLA"] = "\"VLA\""
+    keywords["VLN"] = "\"VLN\""
     
 
     for topic,keyword in keywords.items():
@@ -222,3 +223,4 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file, to_web = True)
+
